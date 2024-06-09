@@ -1,9 +1,3 @@
 h1 {
   color: darkblue;
 }
-
-#me {
-  height: 500px;
-  width: 500px;
-  object-fit: fill;
-}
